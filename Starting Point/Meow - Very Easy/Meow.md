@@ -134,7 +134,9 @@ Answer: root
 
 Submit root flag 
 
+```diff
 - Answer: b40abdfe23665f766f9c61ecba8a4c19
+```
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161568046-9418a83a-f5cf-4110-b35f-2130e8aadba4.png">
