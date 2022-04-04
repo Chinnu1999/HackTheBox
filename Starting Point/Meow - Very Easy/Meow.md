@@ -130,15 +130,11 @@ What username ultimately works with the remote management login prompt for the t
  <img src="https://user-images.githubusercontent.com/94435318/161567518-d271df99-57bc-4237-88b3-12a43b78da90.png">
 </p> 
 
-``` diff
 ### Submit Flag
 
 Submit root flag 
 
-
 - Answer: b40abdfe23665f766f9c61ecba8a4c19
-
-```
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161568046-9418a83a-f5cf-4110-b35f-2130e8aadba4.png">
