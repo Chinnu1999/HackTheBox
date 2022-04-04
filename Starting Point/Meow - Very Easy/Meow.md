@@ -1,3 +1,6 @@
+# MEOW - VERY EASY
+----------------------------------------------------------------------------------------------------------------
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161561175-85ea34cf-fc01-4ec8-bc88-3501953e7851.png">
 </p>
@@ -5,8 +8,6 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161561268-a40561c7-1e02-4ec6-bc3e-775f90bd50d4.png">
 </p>
-
-# MEOW - VERY EASY
 
 ## Step-1 Connect to HTB
 
