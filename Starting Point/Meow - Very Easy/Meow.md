@@ -62,13 +62,13 @@
 
 What does the acronym VM stand for? 
 
-Answer: Virtual MAchine (Our machine is run in virtual only)
+- Answer: Virtual MAchine (Our machine is run in virtual only)
 
 ### Task-2
 
 What tool do we use to interact with the operating system in order to start our VPN connection? 
 
-Answer: Terminal (we use terminal for connecting openvpn in kali linux)
+- Answer: Terminal (we use terminal for connecting openvpn in kali linux)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161564677-713da972-7757-48ef-9748-d1ad3f7d483a.png">
@@ -84,7 +84,7 @@ Answer: openvpn (we download it in htb machine)
 
 What is the abreviated name for a tunnel interface in the output of your VPN boot-up sequence output? 
 
-Answer: tun
+- Answer: tun
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161565374-31668257-8f13-43cb-bcac-1bf55177ea2c.png">
@@ -94,7 +94,7 @@ Answer: tun
 
 What tool do we use to test our connection to the target? 
 
-Answer: ping  (ping the ip given by htb machine, to check whether our target get ping or not)
+- Answer: ping  (ping the ip given by htb machine, to check whether our target get ping or not)
  
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161566051-d481a239-0009-4dea-890b-6d6ce32b688f.png">
@@ -104,7 +104,7 @@ Answer: ping  (ping the ip given by htb machine, to check whether our target get
 
 What is the name of the tool we use to scan the target's ports? 
 
-Answer: nmap (nmap is used to scan the ip to check the open ports)
+- Answer: nmap (nmap is used to scan the ip to check the open ports)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161566758-b5ab77e4-4c3e-44df-9d6f-89b44c07afda.png">
@@ -114,7 +114,7 @@ Answer: nmap (nmap is used to scan the ip to check the open ports)
 
 What service do we identify on port 23/tcp during our scans? 
 
-Answer: telnet
+- Answer: telnet
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161566918-fd3baffc-20d7-4e0f-8652-968e1cac1475.png">
@@ -124,7 +124,7 @@ Answer: telnet
 
 What username ultimately works with the remote management login prompt for the target? 
 
-Answer: root
+- Answer: root
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/94435318/161567518-d271df99-57bc-4237-88b3-12a43b78da90.png">
@@ -135,7 +135,8 @@ Answer: root
 Submit root flag 
 
 
--Answer: b40abdfe23665f766f9c61ecba8a4c19
+- Answer: b40abdfe23665f766f9c61ecba8a4c19
+
 
 
 <p align="center">
