@@ -135,7 +135,7 @@ Answer: root
 Submit root flag 
 
 ```diff
-- Answer: b40abdfe23665f766f9c61ecba8a4c19
+-Answer: b40abdfe23665f766f9c61ecba8a4c19
 ```
 
 <p align="center">
