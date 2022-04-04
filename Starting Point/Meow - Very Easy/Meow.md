@@ -149,3 +149,14 @@ Answer: b40abdfe23665f766f9c61ecba8a4c19
 </p> 
 
 --------------------------------------------------------------------------------------------------------------
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
