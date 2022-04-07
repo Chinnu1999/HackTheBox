@@ -69,7 +69,7 @@ What does the acronym SQL stand for?
 ### Task-2
 
 During our scan, which port running mysql do we find? 
-- 3306
+- Answer: 3306
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94435318/162230006-73d16cc9-9c45-46d0-9632-aea8aef3ae1b.png">
@@ -141,7 +141,15 @@ Submit Root Flag
 
 ---------------------------------------------------------------------------------------------
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/94435318/162233241-20d1f35c-a9d8-4519-817c-9cc4f781508d.png">
+</p>
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/94435318/162233550-423b58c6-281a-4aa1-bb2c-7c6d4c88ed7f.png">
+</p>
+
+----------------------------------------------------------------------------------------------
 
 
 
