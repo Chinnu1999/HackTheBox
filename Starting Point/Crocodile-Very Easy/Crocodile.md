@@ -147,7 +147,7 @@ Submit Root Flag
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94435318/162260490-5d6a527a-cb57-4ef3-bf92-aa6161cec3ed.png">
-  <img src="![image](https://user-images.githubusercontent.com/94435318/162260645-63252a31-2348-4ebf-92f4-710ec09b694d.png">
+  <img src="https://user-images.githubusercontent.com/94435318/162260645-63252a31-2348-4ebf-92f4-710ec09b694d.png">
 </p>
 
 ----------------------------------------------------------------------------------------------------
